@@ -36,11 +36,20 @@ aside {
     width: 20em;
     text-align: center;
     position: relative;
+    margin: 10px;
+    border: 20px;
+    padding: 12px;
+    background-color: rgb(204, 198, 198);
+    color: black;
 }
 
 aside img {
     width: 200px;
     height: auto;
+}
+
+p {
+    padding: 0;
 }
 
 footer {
