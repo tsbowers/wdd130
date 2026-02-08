@@ -119,10 +119,6 @@ nav a:hover {
     border-radius: 6px;
 }
 
-.adventures {
-    margin: 2rem 0;
-}
-
 .adventures h2 {
     text-align: center;
     margin-bottom: 1rem;
@@ -130,6 +126,7 @@ nav a:hover {
 }
 
 .adventures {
+    margin: 2rem 0;
     display: grid;
     grid-template-columns: repeat(5, 1fr);
     gap: 1rem;
